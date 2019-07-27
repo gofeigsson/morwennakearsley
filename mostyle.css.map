@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,EAAE,CAAC;EACC,KAAK,EAAE,IAAI;EACX,SAAS,EAAE,IAAI;CAClB;;AACD,AAAA,IAAI,CAAC;EACD,gBAAgB,EAAE,UAAU;CAC/B",
+    "sources": [
+        "mostyle.scss"
+    ],
+    "names": [],
+    "file": "mostyle.css"
+}
